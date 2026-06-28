@@ -1,0 +1,12 @@
+{
+    "user": {
+        "name": null
+    },
+    "date": null,
+    "tasks": {
+        "all_tasks": [],
+        "completed": [],
+        "pending": [],
+        "uncompleted": []
+    }
+}
